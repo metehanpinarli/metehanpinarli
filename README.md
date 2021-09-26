@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/E89xxATM4iZoPdr6Tb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-google-googleio-googledevs-E89xxATM4iZoPdr6Tb">via GIPHY</a></p>
+<img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47hwug1qtfun8hwnbv5oue7brafl1rvkdikljso7lf&rid=giphy.gif&ct=g4" width="40" height="40" />
 <!--
 **metehanpinarli/metehanpinarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
