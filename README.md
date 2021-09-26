@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47hwug1qtfun8hwnbv5oue7brafl1rvkdikljso7lf&rid=giphy.gif&ct=g4" width="40" height="40" />
+<img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47hwug1qtfun8hwnbv5oue7brafl1rvkdikljso7lf&rid=giphy.gif&ct=g4"/>
 <!--
 **metehanpinarli/metehanpinarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
